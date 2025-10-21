@@ -31,9 +31,9 @@ Segment A customers have the highest frequency and monetary averages, representi
 ---
 
 ## 🔗 Links
-- 📖 [Medium Article]([link](https://medium.com/@sinemelifelma/customer-lifetime-value-cltv-prediction-with-bg-nbd-and-gamma-gamma-models-bd52daa99cd5))
-- 💾 [Kaggle Notebook]([link](https://www.kaggle.com/code/sinemelifelma/cltv-prediction-with-bg-nbd-and-gamma-gamma))
-- 💼 [LinkedIn]([link](https://www.linkedin.com/in/sinem-elif-elma-bab7579b/))
+- 📖 [Medium Article]([(https://medium.com/@sinemelifelma/customer-lifetime-value-cltv-prediction-with-bg-nbd-and-gamma-gamma-models-bd52daa99cd5)])
+- 💾 [Kaggle Notebook]([(https://www.kaggle.com/code/sinemelifelma/cltv-prediction-with-bg-nbd-and-gamma-gamma)])
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/sinem-elif-elma-bab7579b/)])
 
 ## 👩‍💻 Author
 **Sinem Elif Elma**  
